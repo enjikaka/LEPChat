@@ -1,0 +1,15 @@
+messages:
+    join-server:
+        text: "§e%p logged in."
+        enable: true
+    leave-server:
+        text: "§e%p logged out."
+        enable: true
+chatformat:
+    admin: "§c[Admin]"
+    builder: "§a[Builder]"
+    guest: "§7[Guest]"
+    moderator: "§9[Mod]"
+    owner: "§6[Owner]"
+alias:
+    console: "Server"

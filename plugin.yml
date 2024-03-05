@@ -1,0 +1,15 @@
+name: LEPChat
+main: se.enji.lep.Chat
+author: enjikaka
+website: http://enji.se
+version: 0.2
+
+commands:
+    kaos:
+        description: Talk as Dr. Kaos.
+        usage: Type /<command> to talk.
+        permission: dr.kaos
+
+permissions:
+    dr.kaos:
+        description: Gives access to Kaos command.
